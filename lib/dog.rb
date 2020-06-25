@@ -17,5 +17,7 @@ class Dog
     @breed = breed
   end
   
+  def breed
+  
   
 end
